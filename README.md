@@ -25,13 +25,14 @@ Checkout my [Goodreads](https://www.goodreads.com/user/show/13334817-siddharth-p
 <br>
 
 ### 📢 Find me elsewhere
+
 <p align="left">
  <a href="https://grabcad.com/siddharth.pande-1">
-    <img src="https://www.3d-grenzenlos.de/wp/wp-content/uploads/2017/05/grabcad_logo.png" alt="grabCAD" style="vertical-align:top; margin:4px">
+    <img src="https://img.shields.io/badge/GrabCAD-siddharth.pande--1-red" alt="grabCAD" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
   
   <a href="https://www.codewars.com/users/WolverinE90">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codewars.svg" alt="codewars" style="vertical-align:top; margin:4px">
+    <img src="https://img.shields.io/badge/codewars-WolverinE90-red" alt="codewars" style="vertical-align:top; margin:4px">
   </a> &nbsp;&nbsp;&nbsp;
 </p>
 
