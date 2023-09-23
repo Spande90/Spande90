@@ -57,30 +57,47 @@ Checkout my [Goodreads](https://www.goodreads.com/user/show/13334817-siddharth-p
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" align="left" alt="git" height='32px'/> </a>
 <a href="https://ieeexplore.ieee.org/document/1620780" target="_blank"> <img src="https://mark.trademarkia.com/services/logo.ashx?sid=87411999" align="left" alt="git" height='32px'/> </a>
-<br>
-<br>
-#### Programming Tools:
-
-<a href="https://developer.apple.com/xcode/" target="_blank"> <img align="left" src="https://th.bing.com/th/id/OIP.Gi33E2gejxQc9AHURxXrjQAAAA?pid=Api&rs=1" alt="Xcode 12 logo" height="32px" ></a>
-<a href="https://www.postman.com/" target="_blank"> <img align="left" src="https://media.glassdoor.com/sql/1926052/postman-squarelogo-1522909460182.png" alt="PostMan logo" height="32px" ></a>
-<a href="https://github.com/" target="_blank"> <img align="left" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github Logo" height="32px"/> </a>
-<a href="https://gitlab.com/gitlab-com" target="_blank"> <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/GitLab_Logo.svg/2000px-GitLab_Logo.svg.png" alt="Gitlab logo" height="32px" ></a>
-<a href="https://bitbucket.org/product/" target="_blank"> <img align="left" src="https://seeklogo.com/images/B/bitbucket-logo-D072214725-seeklogo.com.png" alt="Bitbucket logo" height="32px" ></a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height=
-"32px"/> </a>
-<a href="https://circleci.com/" target="_blank"> <img align="left" src="https://www.bing.com/th?id=AMMS_cbddb306e222b4c14bd037cfc20d0c19&w=72&h=72&c=7&rs=1&qlt=80&cdv=1&pid=16.1" alt="CircleCI logo" height="32px" ></a>
-<a href="https://www.travis-ci.com/" target="_blank"> <img align="left" src="https://clipartsworld.com/images/travis-ci-png-8.png" alt="TravisCI logo" height="32px" ></a>
-<a href="https://trello.com/" target="_blank"> <img align="left" src="https://cdn.freebiesupply.com/logos/thumbs/2x/trello-logo.png" alt="Trello logo" height="32px" ></a>
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img align="left" src="https://th.bing.com/th/id/OIP.zyhjIjnbbgK8CbzKa_U2DwHaGp?pid=Api&rs=1" alt="Matlab logo" height="32px" ></a>
+<br>
+<br>
+
+#### Design Tools:
+
+<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma Logo" height=
+"32px"/> </a>
+<a href="https://zeplin.io" target="_blank"> <img src="https://cdn.sanity.io/images/wd3e2pma/production/7b336dc26fd85ae98b414761d58238d225876a88-60x48.svg" alt="Zeplin Logo" height=
+"32px"/> </a>
+<br>
+<br>
+
+#### CI/CD and DevOpsTools:
+
+<a href="https://github.com/" target="_blank"> <img align="left" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github Logo" height="32px"/> </a>
+<a href="https://gitlab.com/gitlab-com" target="_blank"> <img align="left" src="https://about.gitlab.com/images/press/press-kit-icon.svg" height="32px" ></a>
+<a href="https://bitbucket.org/product/" target="_blank"> <img align="left" src="https://seeklogo.com/images/B/bitbucket-logo-D072214725-seeklogo.com.png" alt="Bitbucket logo" height="32px" ></a>
+<a href="https://circleci.com/" target="_blank"> <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Circleci-icon-logo.svg/440px-Circleci-icon-logo.svg.png" height="32px" ></a>
+<a href="https://www.travis-ci.com/" target="_blank"> <img align="left" src="https://www.travis-ci.com/wp-content/uploads/2022/09/Logo.png" alt="TravisCI logo" height="32px" ></a>
+<a href="https://trello.com/" target="_blank"> <img align="left" src="https://cdn.freebiesupply.com/logos/thumbs/2x/trello-logo.png" alt="Trello logo" height="32px" ></a>
+<a href="https://azure.microsoft.com/en-in/products/devops" target="_blank"> <img align="left" src="https://www.testmanagement.com/wp-content/uploads/2021/07/microsoft-azure-devops-logo.jpeg" alt="Azure Devops logo" height="32px" ></a>
+<br>
+<br>
+
+#### IDE Development Tools:
+
+<a href="https://developer.apple.com/xcode/" target="_blank"> <img align="left" src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" alt="Xcode 12 logo" height="32px" ></a>
+<a href="https://www.postman.com/" target="_blank"> <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" alt="PostMan logo" height="32px" ></a>
+<a href="https://code.visualstudio.com/brand" target="_blank"> <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code logo" height="32px" ></a>
+<a href="https://developer.android.com/studio" target="_blank"> <img align="left" src="https://developer.android.com/static/studio/images/new-studio-logo-1_2880.png" alt="Android Studio Logo" height="32px" ></a>
+<br>
 <br>
 
 #### EDA Tools:
-<a href="https://www.altium.com/" target="_blank"> <img align="left" src="https://www.altium.com/altium-designer/themes/custom/altium/dist/images/logo-ad-black.svg" alt="Altium Designer logo" height="32px" ></a>
-<a href="https://www.ni.com/en-in/shop/software/products/multisim.html" target="_blank"> <img align="left" src="https://ni.scene7.com/is/image/ni/Multisim_BG?$ni-icon-pm$" alt="Altium Designer logo" height="32px" ></a>
-<a href="https://www.altium.com/" target="_blank"> <img align="left" src="https://circuitmaker.com/Content/Images/logo-min-a.png" alt="Altium Circuit Maker logo" height="32px" ></a>
+<a href="https://www.altium.com/" target="_blank"> <img align="left" src="https://cdn-static.altium.com/sites/default/files/media_icon/2022-09/black-friday-bg-gray-logo.svg" alt="Altium Designer logo" height="32px" ></a>
+<a href="https://www.ni.com/en-in/shop/software/products/multisim.html" target="_blank"> <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/National_Instruments_logo_2020.svg/340px-National_Instruments_logo_2020.svg.png" alt="NI MultiSim logo" height="32px" ></a>
+<a href="https://www.altium.com/" target="_blank"> <img align="left" src="https://www.altium.com/v2/themes/custom/altium_circuitmaker/html/dist/images/Circuitmakerhorizontal.svg" alt="Altium Circuit Maker logo" height="32px" ></a>
 <a href="http://www.kicad-pcb.org/" target="_blank"> <img align="left" src="https://avatars.githubusercontent.com/u/3374914?s=200&v=4" alt = "Kicad logo" height="32px" ></a>
 <a href="http://www.kicad-pcb.org/" target="_blank"> <img align="left" src="https://camo.githubusercontent.com/a9e049ade1147226016feb1ab0024b7e09cf5e6ce7921aa9e7326942f98c71dd/687474703a2f2f636f6e74656e742e61726475696e6f2e63632f6272616e642f61726475696e6f2d636f6c6f722e737667" alt = "Arduino" height="32px" ></a>
-<a href="https://www.intel.com/content/www/us/en/products/programmable.html" target="_blank"> <img align="left" src="https://fpgasoftware.intel.com/static/v2/img/download/dl-software-logo-quartus.png" alt="AlteraQuatrus_II_logo" height="32px" ></a>
+<a href="https://www.intel.com/content/www/us/en/products/programmable.html" target="_blank"> <img align="left" src="https://www.intel.com/content/dam/www/central-libraries/us/en/images/2022-05/quartus-prime-design-software-box-treatment.png.rendition.intel.web.480.270.png" alt="AlteraQuatrus_II_logo" height="32px" ></a>
 <a href="https://www.xilinx.com/products/design-tools/vivado.html#gettingStarted" target="_blank"> <img align="left" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/XilinxVivado_Logo.jpg/393px-XilinxVivado_Logo.jpg" alt="Xilinx_Vivado_logo" height="32px" ></a>
 <a href="https://www.labcenter.com/" target="_blank"> <img align="left" src="https://www.labcenter.com/home/images/30yearsLogo.png" alt="Proteus_ISIS_logo" height="32px" ></a>
 <br>
